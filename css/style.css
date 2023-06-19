@@ -317,7 +317,11 @@ a {
   }
 
   .footer ul{
-    gap: 45px;
+    gap: 50px;
+  }
+
+  .trending-drink {
+    background-image: url("../../assets/japanese_drinks.png");
   }
 
   .trending__content {
